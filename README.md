@@ -1,5 +1,12 @@
 ## I am praveen
 
+<h1 align="center">Welcome to My GitHub Profile</h1>
+
+
+<p align="center">
+  🚀 I’m passionate about <b>Web Development</b>, <b>Spring Boot</b>, and <b>React.js</b>.
+</p>
+
 <!--
 **praveen-9014/praveen-9014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
