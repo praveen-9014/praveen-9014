@@ -47,28 +47,20 @@ How to reach me:
 
   <!-- Left: LeetCode Stats -->
   <div style="flex: 1;">
-    
-[![LeetCode Stats](https://leetcard.jacoblin.cool/praveen-9014?theme=dark&font=Anek%20Gurmukhi&ext=contest)](https://leetcode.com/praveen-9014/)
-
+    [![LeetCode Stats](https://leetcard.jacoblin.cool/praveen-9014?theme=dark&font=Anek%20Gurmukhi&ext=contest)](https://leetcode.com/praveen-9014/)
   </div>
-
-  <!-- Right: Icons -->
-  <div style="flex: 0.5; text-align: center;">
-
-  <a href="https://leetcode.com/praveen-9014/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="50"/>
-  </a>
-  <br>
-  <a href="https://www.codechef.com/users/praveen9014" target="_blank">
-    <img src="https://img.icons8.com/color/48/codechef.png" width="50"/>
-  </a>
-  <br>
-  <a href="https://www.hackerrank.com/praveen_9014" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" width="50"/>
-  </a>
+  <!-- Right: CodeChef + HackerRank (Diagonal) -->
+  <div style="flex: 0.5; display: flex; flex-direction: column; align-items: center;">
+    <a href="https://www.codechef.com/users/praveen9014" target="_blank" style="margin-bottom: 20px; transform: translateX(-20px);">
+      <img src="https://img.icons8.com/color/48/codechef.png" width="50"/>
+    </a>
+    <a href="https://www.hackerrank.com/praveen_9014" target="_blank" style="transform: translateX(20px);">
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" width="50"/>
+    </a>
 
   </div>
 </div>
+
 
 
 <!--
