@@ -41,56 +41,55 @@ How to reach me:
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql" width="48" height="48"/>  
 </p>
 
-## 📊 Competitive Programming Profiles  
+## 🔗 Competitive Programming Profiles  
 
-## 📊 Competitive Programming Profiles  
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-<table>
-  <tr>
-    <!-- Left side: LeetCode stats -->
-    <td width="60%" align="center">
-
+  <!-- Left: LeetCode Stats -->
+  <div style="flex: 1;">
+    
 [![LeetCode Stats](https://leetcard.jacoblin.cool/praveen-9014?theme=dark&font=Anek%20Gurmukhi&ext=contest)](https://leetcode.com/praveen-9014/)
-    </td>
-    <!-- Right side: CodeChef + HackerRank -->
-    <td width="40%" align="center">
-      <a href="https://www.codechef.com/users/praveen9014">
-        <img src="https://img.icons8.com/color/96/codechef.png" alt="codechef" width="80" height="80"/>
-      </a>
-      <br><br>
-      <a href="https://www.hackerrank.com/praveen_9014">
-        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="hackerrank" width="80" height="80"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
+  </div>
 
+  <!-- Right: Icons -->
+  <div style="flex: 0.5; text-align: center;">
 
+  <a href="https://leetcode.com/praveen-9014/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="50"/>
+  </a>
+  <br>
+  <a href="https://www.codechef.com/users/praveen9014" target="_blank">
+    <img src="https://img.icons8.com/color/48/codechef.png" width="50"/>
+  </a>
+  <br>
+  <a href="https://www.hackerrank.com/praveen_9014" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" width="50"/>
+  </a>
+
+  </div>
+</div>
 
 
 <!--
-
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Praveen-9014?theme=dark&font=Anek%20Gurmukhi&ext=contest)](https://leetcode.com/praveen-9014/)
-##
-🔗 Competitive Programming Profiles  
+## Competitive Programming Profiles  
 <p align="left">
 
-  <a href="https://leetcode.com/praveen-9014/" target="_blank">
+  <a href="https://leetcode.com//" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="leetcode" width="50" height="50"/>
   </a>
 
-  <a href="https://www.codechef.com/users/praveen9014" target="_blank">
+  <a href="https://www.codechef.com/users/" target="_blank">
     <img src="https://img.icons8.com/color/48/codechef.png" alt="codechef" width="50" height="50"/>
   </a>
 
-  <a href="https://www.hackerrank.com/praveen_9014" target="_blank">
+  <a href="https://www.hackerrank.com/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="hackerrank" width="50" height="50"/>
   </a>
   
 </p>
 -->
-
 
 
 
