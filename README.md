@@ -41,47 +41,29 @@ How to reach me:
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql" width="48" height="48"/>  
 </p>
 
-## 📊 Competitive Programming & Profiles  
+## 📊 Competitive Programming Profiles  
 
 <table>
   <tr>
     <!-- Left side: LeetCode stats -->
-    <td width="50%" align="center">
-      <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-        <img src="https://leetcard.jacoblin.cool/praveen-9014?theme=dark&ext=heatmap" alt="leetcode stats"/>
+    <td width="60%" align="center">
+      <a href="https://leetcode.com/praveen_9014/">
+        <img src="https://leetcard.jacoblin.cool/praveen_9014?theme=dark&ext=heatmap" alt="leetcode stats"/>
       </a>
     </td>
-    <!-- Right side: 2x2 grid -->
-    <td width="50%">
-      <table>
-        <tr>
-          <td align="center" width="50%">
-            <!-- CodeChef -->
-            <a href="https://www.codechef.com/users/praveen9014">
-              <img src="https://img.icons8.com/color/96/codechef.png" alt="codechef" width="80" height="80"/>
-            </a>
-          </td>
-          <td align="center" width="50%">
-            <!-- Coding related image -->
-            <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/external-programmer-agile-flaticons-lineal-color-flat-icons.png" alt="coding"/>
-          </td>
-        </tr>
-        <tr>
-          <td align="center" width="50%">
-            <!-- HackerRank -->
-            <a href="https://www.hackerrank.com/praveen_9014">
-              <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="hackerrank" width="80" height="80"/>
-            </a>
-          </td>
-          <td align="center" width="50%">
-            <!-- Another coding icon (GeeksforGeeks placeholder) -->
-            <img src="https://img.icons8.com/color/96/000000/source-code.png" alt="coding"/>
-          </td>
-        </tr>
-      </table>
+    <!-- Right side: CodeChef + HackerRank -->
+    <td width="40%" align="center">
+      <a href="https://www.codechef.com/users/praveen9014">
+        <img src="https://img.icons8.com/color/96/codechef.png" alt="codechef" width="80" height="80"/>
+      </a>
+      <br><br>
+      <a href="https://www.hackerrank.com/praveen_9014">
+        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="hackerrank" width="80" height="80"/>
+      </a>
     </td>
   </tr>
 </table>
+
 
 
 
