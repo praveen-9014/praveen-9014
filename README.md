@@ -41,7 +41,9 @@ How to reach me:
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql" width="48" height="48"/>  
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Praveen-9014?theme=dark&font=Anek%20Gurmukhi&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Praveen-9014?theme=dark&font=Anek%20Gurmukhi&ext=contest)(https://leetcode.com/praveen-9014/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)(https://www.codechef.com/users/praveen9014)  
+
 
 [![praveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=praveen-9014&bg_color=1a191a&color=e9fa00&line=34b766&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
