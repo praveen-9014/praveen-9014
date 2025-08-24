@@ -42,7 +42,29 @@ How to reach me:
 </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Praveen-9014?theme=dark&font=Anek%20Gurmukhi&ext=contest)(https://leetcode.com/praveen-9014/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)(https://www.codechef.com/users/praveen9014)  
+## 🔗 Competitive Programming Profiles  
+
+<p align="left">
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/praveen-9014/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="leetcode" width="50" height="50"/>
+  </a>
+
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/praveen9014" target="_blank">
+    <img src="https://img.icons8.com/color/48/codechef.png" alt="codechef" width="50" height="50"/>
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/praveen_9014" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="hackerrank" width="50" height="50"/>
+  </a>
+
+  <!-- Skillrack (no official icon, using globe/chrome as placeholder) -->
+  <a href="https://www.skillrack.com/faces/resume.xhtml?id=541739" target="_blank">
+    <img src="https://img.icons8.com/color/48/google-chrome.png" alt="skillrack" width="50" height="50"/>
+  </a>
+</p>
 
 
 [![praveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=praveen-9014&bg_color=1a191a&color=e9fa00&line=34b766&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
