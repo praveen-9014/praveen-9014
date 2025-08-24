@@ -41,29 +41,7 @@ How to reach me:
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql" width="48" height="48"/>  
 </p>
 
-## 🔗 Competitive Programming Profiles  
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-  <!-- Left: LeetCode Stats -->
-  <div style="flex: 1;">
-    [![LeetCode Stats](https://leetcard.jacoblin.cool/praveen-9014?theme=dark&font=Anek%20Gurmukhi&ext=contest)](https://leetcode.com/praveen-9014/)
-  </div>
-  <!-- Right: CodeChef + HackerRank (Diagonal) -->
-  <div style="flex: 0.5; display: flex; flex-direction: column; align-items: center;">
-    <a href="https://www.codechef.com/users/praveen9014" target="_blank" style="margin-bottom: 20px; transform: translateX(-20px);">
-      <img src="https://img.icons8.com/color/48/codechef.png" width="50"/>
-    </a>
-    <a href="https://www.hackerrank.com/praveen_9014" target="_blank" style="transform: translateX(20px);">
-      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" width="50"/>
-    </a>
-
-  </div>
-</div>
-
-
-
-<!--
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Praveen-9014?theme=dark&font=Anek%20Gurmukhi&ext=contest)](https://leetcode.com/praveen-9014/)
 ## Competitive Programming Profiles  
 <p align="left">
@@ -81,10 +59,6 @@ How to reach me:
   </a>
   
 </p>
--->
-
-
-
 
 
 [![praveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=praveen-9014&bg_color=1a191a&color=e9fa00&line=34b766&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
