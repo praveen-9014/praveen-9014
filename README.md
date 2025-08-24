@@ -47,7 +47,9 @@ How to reach me:
   <tr>
     <!-- Left side: LeetCode stats -->
     <td width="60%" align="center">
-      [![LeetCode Stats](https://leetcard.jacoblin.cool/Praveen-9014?theme=dark&font=Anek%20Gurmukhi&ext=contest)](https://leetcode.com/praveen-9014/)
+      <a href="https://leetcode.com/praveen-9014/">
+        [![LeetCode Stats](https://leetcard.jacoblin.cool/Praveen-9014?theme=dark&font=Anek%20Gurmukhi&ext=contest)](https://leetcode.com/praveen-9014/)
+      </a>
     </td>
     <!-- Right side: CodeChef + HackerRank -->
     <td width="40%" align="center">
