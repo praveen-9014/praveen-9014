@@ -43,13 +43,14 @@ How to reach me:
 
 ## 📊 Competitive Programming Profiles  
 
+## 📊 Competitive Programming Profiles  
+
 <table>
   <tr>
     <!-- Left side: LeetCode stats -->
     <td width="60%" align="center">
-      <a href="https://leetcode.com/praveen-9014/">
-        [![LeetCode Stats](https://leetcard.jacoblin.cool/Praveen-9014?theme=dark&font=Anek%20Gurmukhi&ext=contest)](https://leetcode.com/praveen-9014/)
-      </a>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/praveen-9014?theme=dark&font=Anek%20Gurmukhi&ext=contest)](https://leetcode.com/praveen-9014/)
     </td>
     <!-- Right side: CodeChef + HackerRank -->
     <td width="40%" align="center">
@@ -63,6 +64,7 @@ How to reach me:
     </td>
   </tr>
 </table>
+
 
 
 
